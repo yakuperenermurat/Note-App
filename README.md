@@ -8,7 +8,7 @@ The goal of this application is to provide an easy-to-use interface for creating
 
 ## Live Demo
 
-You can explore the project online through this [Demo Link](https://your-live-demo-link).
+You can explore the project online through this [Demo Link](https://shiny-starlight-e3973a.netlify.app).
 
 ## Features
 
@@ -31,4 +31,4 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/yakuperenermurat/Note-App.git>
